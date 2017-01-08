@@ -64,11 +64,11 @@ namespace FerryBackEndTests
         public void GetRoutesTest()
         { // Webservice and Ado.Net should return same 
             var context = new TestDBContext();
-            var service = new Webservice.Service();
+            var service = new Service();
             var routesFromContext = context.Route.ToList();
             var routesFromWebservice = service.GetRoutes();
 
-            Assert.AreEqual(routesFromContext.Count,routesFromWebservice.Length);
+            Assert.AreEqual(routesFromContext.Count,routesFromWebservice.Count);
         }
     }
 }

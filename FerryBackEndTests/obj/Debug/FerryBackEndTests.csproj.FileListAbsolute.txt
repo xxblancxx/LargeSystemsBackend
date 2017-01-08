@@ -17,11 +17,9 @@ D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\FerryBackEndTests.pdb
 D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\EntityFramework.dll
 D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\EntityFramework.SqlServer.dll
 D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\FerryBackEnd.dll
-D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\FerryContract.dll
 D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\FerryBackEnd.pdb
 D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\EntityFramework.xml
 D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\EntityFramework.SqlServer.xml
-D:\Projects\FerryBackEnd\FerryBackEndTests\bin\Debug\FerryContract.pdb
 D:\Projects\FerryBackEnd\FerryBackEndTests\obj\Debug\FerryBackEndTests.csprojResolveAssemblyReference.cache
 D:\Projects\FerryBackEnd\FerryBackEndTests\obj\Debug\FerryBackEndTests.dll
 D:\Projects\FerryBackEnd\FerryBackEndTests\obj\Debug\FerryBackEndTests.pdb

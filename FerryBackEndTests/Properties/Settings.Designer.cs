@@ -22,15 +22,5 @@ namespace FerryBackEndTests.Properties {
                 return defaultInstance;
             }
         }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://localhost:59588/Service.asmx")]
-        public string FerryBackEndTests_Webservice_Service {
-            get {
-                return ((string)(this["FerryBackEndTests_Webservice_Service"]));
-            }
-        }
     }
 }

@@ -36,4 +36,3 @@ D:\Projects\FerryBackEnd\FerryBackEnd\bin\Microsoft.ApplicationInsights.xml
 D:\Projects\FerryBackEnd\FerryBackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Projects\FerryBackEnd\FerryBackEnd\obj\Debug\FerryBackEnd.dll
 D:\Projects\FerryBackEnd\FerryBackEnd\obj\Debug\FerryBackEnd.pdb
-D:\Projects\FerryBackEnd\FerryBackEnd\obj\Debug\FerryBackEnd.csprojResolveAssemblyReference.cache
